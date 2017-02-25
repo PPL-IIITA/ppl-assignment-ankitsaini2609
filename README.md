@@ -1,4 +1,4 @@
 #Question 1 
 
-##For Linux:
->python3 mainfile.py
+##Form Linux:
+>python mainfile.py
