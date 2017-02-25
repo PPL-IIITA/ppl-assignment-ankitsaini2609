@@ -1,4 +1,4 @@
 #Question 1 
 
-##Form Linux:
+##From Linux:
 >python mainfile.py
