@@ -14,13 +14,13 @@ Contents:
     Readme.txt
 
 Build-Commands(For Terminal):
-Question-1:
+question1:
 
     python mainfile.py
 
-Question-2:
+question2:
 
-    python3 mainfile.py
+    python mainfile.py
 
 About the author:
 
