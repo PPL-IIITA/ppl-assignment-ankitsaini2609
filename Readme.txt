@@ -9,8 +9,8 @@ Platform:
 
 Contents:
 
-    question1(Documentation1.pdf, class_diagram1.pdf, boys.py, girls.py, mainfile.py, utility.py),
-    question2(Documentation2.pdf, class_diagram2.pdf, boys.py, couples.py, gifts.py, girls.py, mainfile.py, utility.py)
+    question1(class_diagram1.pdf, boys.py, girls.py, mainfile.py, utility.py),
+    question2(class_diagram2.pdf, boys.py, couples.py, gifts.py, girls.py, mainfile.py, utility.py)
     Readme.txt
 
 Build-Commands(For Terminal):
