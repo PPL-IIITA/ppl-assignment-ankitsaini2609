@@ -9,13 +9,20 @@
     question1(Documentation,class_diagram1.pdf, boys.py, girls.py, mainfile.py, utility.py),
     question2(Documentation,class_diagram2.pdf, boys.py, couples.py, gifts.py, girls.py, mainfile.py, utility.py)
     Readme.md
- 
+    question4(DOC,class_diagram.pdf, boys.py, couples.py, gifts.py, girls.py, mainfile.py, utility.py)
+    Readme.md
+    question5(DOC,class_diagram5.pdf, boys.py, girls.py, mainfile.py, utility.py),
+ # for que4 and que5 epydoc is use for documentation
  
 # Build-Commands(For Terminal):
 question1:
-    python mainfile.py
+    python3 mainfile.py
 question2:
-    python mainfile.py
+    python3 mainfile.py
+question4:
+    python3 mainfile.py
+question5:
+    python3 mainfile.py
 
 # About the author:
     Ankit Kumar
