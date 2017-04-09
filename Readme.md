@@ -9,6 +9,7 @@
     question1(Documentation,class_diagram1.pdf, boys.py, girls.py, mainfile.py, utility.py),
     question2(Documentation,class_diagram2.pdf, boys.py, couples.py, gifts.py, girls.py, mainfile.py, utility.py)
     Readme.md
+    question3(DOC,class_diagram.pdf, boys.py, couples.py, gifts.py, girls.py, mainfile.py, utility.py)
     question4(DOC,class_diagram.pdf, boys.py, couples.py, gifts.py, girls.py, mainfile.py, utility.py)
     Readme.md
     question5(DOC,class_diagram5.pdf, boys.py, girls.py, mainfile.py, utility.py),
