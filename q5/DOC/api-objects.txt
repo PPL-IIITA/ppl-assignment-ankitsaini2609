@@ -1,0 +1,13 @@
+girls	girls-module.html
+girls.__package__	girls-module.html#__package__
+mainfile	mainfile-module.html
+mainfile.__package__	mainfile-module.html#__package__
+mainfile.Utili	utility-module.html#Utili
+mainfile.allocate	mainfile-module.html#allocate
+utility	utility-module.html
+utility.Utili	utility-module.html#Utili
+utility.Create	utility-module.html#Create
+utility.__package__	utility-module.html#__package__
+girls.Girl	girls.Girl-class.html
+girls.Girl.is_elligible	girls.Girl-class.html#is_elligible
+girls.Girl.__init__	girls.Girl-class.html#__init__
